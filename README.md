@@ -2,6 +2,11 @@
 
 Proyecto de automatización y control de stock desarrollado para la asignatura Taller de Base de Datos (BDY1103).
 
+## 📚 Información Académica
+* **Asignatura:** Taller de Base de Datos
+* **Sigla y Sección:** BDY1103-003V
+* **Docente:** Cristian Carreño
+
 ## 🎯 Objetivo del Proyecto
 Implementar una solución eficiente en PL/SQL que procese grandes volúmenes de datos de inventario. El sistema identifica quiebres de stock en tiempo real y genera alertas preventivas para evitar la pérdida de ventas en un minimarket de alto flujo.
 
